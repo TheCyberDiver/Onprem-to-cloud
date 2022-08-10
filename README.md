@@ -1,4 +1,10 @@
-# OnpremDC-to-Cloud
+############################      
+#       Onprem to          #
+#       Azure AD           #
+############################
+
+![image](https://user-images.githubusercontent.com/77608692/184009777-0e3dfede-a02d-4f5b-b583-f0d181e16d68.png)
+
 
 Linking up On prem Domain Controller to azure cloud Active Directory
 
